@@ -3,9 +3,9 @@
 </div>
 
 ###
-
+<div align="center">
 <h1 align="center">hey there 👋</h1>
-
+</div>
 ###
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=536&height=61&lines=I'm+Shivam+Verma+and+I'm+a+Java+Developer)](https://git.io/typing-svg)
