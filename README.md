@@ -1,5 +1,6 @@
 <div align="center">
-  ![anim](https://github.com/shivamverma26/shivamverma26/assets/94590743/bc553362-8e2c-4b89-9613-2115b87c6af7)
+![anim](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/4003221e-5d9e-413f-87c5-4a4cb6e2931f)
+
 
 </div>
 
@@ -73,19 +74,20 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/shivamverma61" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/Arthur31692023" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="30" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="30" alt="twitter logo"  />
   </a>
   <a href="mailto:verma.shivam2605@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/verma_shivam2605" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="45" height="30" alt="hackerrank logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="50" height="30" alt="hackerrank logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="30" alt="youtube logo"  />
 </div>
 
 ###
@@ -94,7 +96,7 @@
 </div>
 
 
-
+</div>
 
 
 
@@ -103,23 +105,23 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamverma26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamverma26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="160" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=shivamverma26&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+ <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shivamverma26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph" /> </div><br>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamverma26&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="160" alt="languages graph" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=shivamverma26&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph" /></div>
+ <br>
   <img src="https://github-profile-trophy.vercel.app?username=shivamverma26&theme=dracula&column=-1&row=2&margin-w=10&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamverma26&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/shivamverma26/shivamverma26/output/snake.svg" alt="Snake animation" />
-
 ###
+###
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=shivamverma26.shivamverma26&left_color=chocolate&right_color=dimgray"  />
 <div align="left">
 </div>
 
 ###
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=shivamverma26.shivamverma26&left_color=chocolate&right_color=dimgray"  />
