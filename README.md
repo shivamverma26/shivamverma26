@@ -1,7 +1,5 @@
 <div align="center">
-![anim](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/4003221e-5d9e-413f-87c5-4a4cb6e2931f)
-
-
+  <img height="450" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/anim.gif"  />
 </div>
 
 ###
@@ -10,8 +8,7 @@
 
 ###
 
-<h3 align="center">My name is Shivam Verma and I'm a .Java Developer</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=536&height=61&lines=I'm+Shivam+Verma+and+I'm+a+Java+Developer)](https://git.io/typing-svg)
 ###
 
 <h2 align="left">👩‍💻 About me</h2>
