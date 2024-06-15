@@ -69,9 +69,9 @@
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
 </div>
 
-###
+### Connect me
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/shivamverma61" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
