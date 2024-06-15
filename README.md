@@ -11,10 +11,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=536&height=61&lines=I'm+Shivam+Verma+and+I'm+a+Java+Developer)](https://git.io/typing-svg)
 ##
 
-<h2 align="left">👩‍💻 About me</h2>
+<h2 align="left">👩‍💻 About me</h2> <img height="200" align= "right" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/code.gif"   />
+
 
 ##
-<img height="250" align= "right" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/code.gif" align="right" />
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Microservices<br>🎯 Goals: Get 1% better every day<br>🎲 Fun fact: Grace Hopper coined the term "debugging" after finding a moth in a computer.</p> 
  
 <br>
