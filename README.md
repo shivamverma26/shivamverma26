@@ -9,13 +9,15 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=536&height=61&lines=I'm+Shivam+Verma+and+I'm+a+Java+Developer)](https://git.io/typing-svg)
-###
+##
 
 <h2 align="left">👩‍💻 About me</h2>
 
-###
+##
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Microservices<br>🎯 Goals: Get 1% better every day<br>🎲 Fun fact: Grace Hopper coined the term "debugging" after finding a moth in a computer.</p>
+
+<br>
 
 ###
 
@@ -68,8 +70,13 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
 </div>
+<br>
 
-### Connect me
+##
+
+<h2 align="left">👩‍💻 Connect with me</h2>
+
+##
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shivamverma61" target="_blank">
