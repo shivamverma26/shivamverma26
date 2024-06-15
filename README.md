@@ -14,9 +14,9 @@
 <h2 align="left">👩‍💻 About me</h2>
 
 ##
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Microservices<br>🎯 Goals: Get 1% better every day<br>🎲 Fun fact: Grace Hopper coined the term "debugging" after finding a moth in a computer.</p>
-
+<img height="250" align= "right" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/code.gif" align="right" />
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Microservices<br>🎯 Goals: Get 1% better every day<br>🎲 Fun fact: Grace Hopper coined the term "debugging" after finding a moth in a computer.</p> 
+ 
 <br>
 
 ###
